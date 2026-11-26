@@ -76,7 +76,7 @@ The Babcock University Lost and Found Management System is proposed to make it e
 A mobile application for easier access.
 A feature that suggests possible matches between lost and found items.
 
-User Requirement
+User Stories
 1. Students will know when someone has found an item they reported missing.
 2. Users will receives update without constantly checking the platform.
 3. It will improve communication between students and university staff.
