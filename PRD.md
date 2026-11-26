@@ -75,3 +75,11 @@ The Babcock University Lost and Found Management System is proposed to make it e
 ## 10. Future Improvements
 A mobile application for easier access.
 A feature that suggests possible matches between lost and found items.
+
+User Requirement
+1. Students will know when someone has found an item they reported missing.
+2. Users will receives update without constantly checking the platform.
+3. It will improve communication between students and university staff.
+
+Future Requirement
+The system should be developed into a mobile application in the future to allow student and staff to access the Lost and Found Management easily using their smartsphones.
